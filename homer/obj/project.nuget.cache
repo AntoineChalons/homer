@@ -1,8 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "TInZYOXC5GU=",
+  "dgSpecHash": "c0VxKBue2v4=",
   "success": true,
   "projectFilePath": "/Users/antoinechalons/dev/homer/homer/homer.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/antoinechalons/.nuget/packages/microsoft.data.sqlite.core/10.0.2/microsoft.data.sqlite.core.10.0.2.nupkg.sha512",
+    "/Users/antoinechalons/.nuget/packages/microsoft.entityframeworkcore/10.0.2/microsoft.entityframeworkcore.10.0.2.nupkg.sha512",
+    "/Users/antoinechalons/.nuget/packages/microsoft.entityframeworkcore.abstractions/10.0.2/microsoft.entityframeworkcore.abstractions.10.0.2.nupkg.sha512",
+    "/Users/antoinechalons/.nuget/packages/microsoft.entityframeworkcore.analyzers/10.0.2/microsoft.entityframeworkcore.analyzers.10.0.2.nupkg.sha512",
+    "/Users/antoinechalons/.nuget/packages/microsoft.entityframeworkcore.relational/10.0.2/microsoft.entityframeworkcore.relational.10.0.2.nupkg.sha512",
+    "/Users/antoinechalons/.nuget/packages/microsoft.entityframeworkcore.sqlite/10.0.2/microsoft.entityframeworkcore.sqlite.10.0.2.nupkg.sha512",
+    "/Users/antoinechalons/.nuget/packages/microsoft.entityframeworkcore.sqlite.core/10.0.2/microsoft.entityframeworkcore.sqlite.core.10.0.2.nupkg.sha512",
+    "/Users/antoinechalons/.nuget/packages/microsoft.extensions.dependencymodel/10.0.2/microsoft.extensions.dependencymodel.10.0.2.nupkg.sha512",
+    "/Users/antoinechalons/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.1.11/sqlitepclraw.bundle_e_sqlite3.2.1.11.nupkg.sha512",
+    "/Users/antoinechalons/.nuget/packages/sqlitepclraw.core/2.1.11/sqlitepclraw.core.2.1.11.nupkg.sha512",
+    "/Users/antoinechalons/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.1.11/sqlitepclraw.lib.e_sqlite3.2.1.11.nupkg.sha512",
+    "/Users/antoinechalons/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.1.11/sqlitepclraw.provider.e_sqlite3.2.1.11.nupkg.sha512"
+  ],
   "logs": []
 }
